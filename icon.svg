@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1f4fd1"/>
+  <path d="M0 360c70-40 130-40 190 0s130 40 190 0 100-30 132-14V512H0z" fill="#14379a"/>
+  <text x="256" y="285" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="118" fill="#ffffff">¡Hola!</text>
+  <circle cx="392" cy="140" r="44" fill="#e9a800"/>
+</svg>
